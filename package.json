@@ -15,6 +15,10 @@
   "license": "GPLv3",
   "dependencies": {
     "@types/node": "^18.0.6",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "firebase": "^10.10.0",
+    "pug": "^3.0.2",
+    "purecss": "^3.0.0"
   }
 }
